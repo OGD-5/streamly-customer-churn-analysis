@@ -96,6 +96,16 @@ Explores churn patterns across support ticket volume, payment failures, customer
 
 The dashboard helps identify patterns that may warrant further investigation and highlights potential opportunities for improving customer retention.
 
+## Dashboard Preview
+
+### Executive Churn Overview
+
+![Executive Churn Overview](screenshots/executive_churn_overview.png)
+
+### Customer Behaviour & Risk
+
+![Customer Behaviour & Risk](screenshots/customer_behaviour_risk.png)
+
 ## Business Recommendations
 
 Based on the initial findings, the following actions are proposed for further investigation:

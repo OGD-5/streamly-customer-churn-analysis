@@ -100,11 +100,11 @@ The dashboard helps identify patterns that may warrant further investigation and
 
 ### Executive Churn Overview
 
-![Executive Churn Overview](screenshots/executive_churn_overview.png)
+![Executive Churn Overview](Streamly%20Project/DASHBOARD/executive_churn_overview.png)
 
 ### Customer Behaviour & Risk
 
-![Customer Behaviour & Risk](screenshots/customer_behaviour_risk.png)
+![Customer Behaviour & Risk](Streamly%20Project/DASHBOARD/customer_behaviour_risk.png)
 
 ## Business Recommendations
 
